@@ -1,4 +1,6 @@
-Assignment 1 – What happens between typing a URL and seeing the page?
+Assignment 1 
+What happens between typing a URL and seeing the page?
+
 When we type a URL in a web browser and press Enter, several steps take place to load and display the webpage. 
 1. Entering the URL : User enters a website address, such as www.google.com, into the browser and presses Enter. 
 2. DNS : DNS (Domain Name System) converts the domain name into an IP address. 
