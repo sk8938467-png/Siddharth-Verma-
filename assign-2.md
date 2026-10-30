@@ -1,4 +1,4 @@
-Assignment 2:Setup Proof (VS Code, Node.js, Live Server)
+Assignment 2 :Setup Proof (VS Code, Node.js, Live Server)
 
 Steps:
 1.VS Code Setup --> It is a code editor used to write and edit programs in different programming languages. Open VS Code and check its version under Help → About.
