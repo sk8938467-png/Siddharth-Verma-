@@ -24,7 +24,7 @@
   <h3>BCA in (Artificial Intelligence) </h3>
   <p>Invertis Univeristy (at present-2026)</p>
   <h3>Senior Secondary (XII)</h3>
-  <p>Kendriya Vidalaya OCF spn, 2026 – 83%</p>
+  <p>Kendriya Vidalaya OCF spn, 2026 – 63%</p>
 
   <hr>
 
