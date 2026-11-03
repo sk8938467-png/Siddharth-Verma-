@@ -28,7 +28,7 @@
       <h2>Projects :- Front-End To-Do List</h2>
       <p>Created a to-do list website using HTML, CSS, and JavaScript.<br>
          Designed a user-friendly interface to add and manage daily tasks.</p>
-      <p><a href="https://github.com/misanushkaaa-11apr" target="_blank">See my GitHub</a></p>
+      <p><a href="https://github.com/sk8938467-png" target="_blank">See my GitHub</a></p>
     </section>
     <section id="skills">
       <h2>Skills</h2>
