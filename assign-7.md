@@ -10,7 +10,7 @@
 
 <body>
   <h1>Siddharth verma</h1>
-  <p>Aspiring Web Developer<br>Bareilly, Uttar Pradesh, India<br>Email: misanushkaaa@gmail.com | Phone: +91 94573 87651 </p>
+  <p>Aspiring Web Developer<br>Bareilly, Uttar Pradesh, India<br>Email: sk8938467@gmail.com | Phone: +91 94573 87651 </p>
 
   <hr>
 
