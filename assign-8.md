@@ -6,7 +6,7 @@ Assignment-8: resume-semantic
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Resume">
-  <title>Resume – Anushka Mishra(Semantic)</title>
+  <title>Resume – Siddharth verma(Semantic)</title>
 </head>
 <body>
   <header>
@@ -14,7 +14,7 @@ Assignment-8: resume-semantic
     <p>Aspiring Web Developer</p>
     <address>
       Bareilly, Uttar Pradesh, India<br>
-      <a href="mailto: misanushkaaa@gmail.com"> sk8938467@gmail.com</a> | <a href="tel:+919457387651">+91 9457387651</a>
+      <a href="mailto: sk8938467@gmail.com"> sk8938467@gmail.com</a> | <a href="tel:+917607045074">+91 7607045074</a>
     </address>
   </header>
 
