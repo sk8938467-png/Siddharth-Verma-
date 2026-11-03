@@ -10,7 +10,7 @@ Assignment-8: resume-semantic
 </head>
 <body>
   <header>
-    <h1>siddharth verma</h1>
+    <h1>Siddharth verma</h1>
     <p>Aspiring Web Developer</p>
     <address>
       Bareilly, Uttar Pradesh, India<br>
