@@ -5,11 +5,11 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Resume – Aarav Sharma – HTML &amp; CSS course assignment">
-  <title>Resume – Anushka Mishra</title>
+  <title>Resume – Siddharth verma</title>
 </head>
 
 <body>
-  <h1>Anushka Mishra</h1>
+  <h1>Siddharth verma</h1>
   <p>Aspiring Web Developer<br>Bareilly, Uttar Pradesh, India<br>Email: misanushkaaa@gmail.com | Phone: +91 94573 87651 </p>
 
   <hr>
@@ -24,7 +24,7 @@
   <h3>BCA in (Artificial Intelligence) </h3>
   <p>Invertis Univeristy (at present-2026)</p>
   <h3>Senior Secondary (XII)</h3>
-  <p>Brij Bhushan Lal Public School, 2026 – 83%</p>
+  <p>Kendriya Vidalaya OCF spn, 2026 – 83%</p>
 
   <hr>
 
